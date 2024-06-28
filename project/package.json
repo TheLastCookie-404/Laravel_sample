@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "concurrently  \"php artisan config:cache\" \"php artisan serve\" \"vite\" ",
+        "build": "vite build",
+        "lol": "curl parrot.live"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "daisyui": "^4.12.10",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.4.4",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^5.0.5",
+        "vue": "^3.4.30",
+        "vue-router": "^4.4.0"
+    }
+}
