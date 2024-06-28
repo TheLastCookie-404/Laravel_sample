@@ -9,7 +9,7 @@
     Vue 3 (vue-router) <a href="https://vuejs.org/guide/introduction.html">docs</a>
   </li>
   <li>
-    Vite <a href="https://laravel.com/docs/11.x](https://vitejs.dev/guide">docs</a>
+    Vite <a href="https://vitejs.dev/guide">docs</a>
   </li>
   <li>
     Tailwind CSS (daisy-ui) <a href="https://tailwindcss.com/docs/guides/laravel">docs</a>
